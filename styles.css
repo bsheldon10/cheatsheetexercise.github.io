@@ -1,0 +1,38 @@
+body{
+  background-color: #F8EDC6;
+}
+
+h1{
+  font-family: 'Tilt Prism';
+  text-align: center;
+  color: #B0E6E9;
+  font-weight:900;
+  font-size: 60px;
+}
+
+h2{
+  font-family: 'Arial';
+  text-align: center;
+  font-weight: 600;
+  background-color: #E9C15A
+}
+
+p{ 
+  text-align: justify;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+footer{ 
+  text-align: center; 
+  font-style: italic;
+  font-weight: 300;
+  color:#B0E9B7;
+  background-color: #AFB7B0;
+}
+
+img{ 
+  width: 30%;
+  float: right;
+  padding: 10px;
+}
